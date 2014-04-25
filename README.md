@@ -1,0 +1,1 @@
+A simple webpage to practice jQuery and draw silly things.

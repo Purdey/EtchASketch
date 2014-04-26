@@ -12,33 +12,31 @@ button {
     box-shadow: 10px 10px 5px #000;
 }
 button:hover {
-    -moz-transition: background-color 0.5s ease;
-    -o-transition: background-color 0.5s ease;
     -webkit-transition: background-color 0.5s ease;
     transition: background-color 0.5s ease;
     background-color: #ecf2ac;
 }
 
 .container {
-	width: 900px;
-	height: 900px;
-	background-color: white;
-	margin: 30px auto;
-	display: none;
+    width: 900px;
+    height: 900px;
+    background-color: white;
+    margin: 30px auto;
+    display: none;
 }
 
 
 .row {
-	display: block;
-	margin: 1px 0;
+    display: block;
+    margin: 1px 0;
 }
 
 .block {
-	margin: 0 1px;
-	background-color: black;
-	display: inline-block;
+    margin: 0 1px;
+    background-color: black;
+    display: inline-block;
 }
 
 .red {
-	background-color: red;
+    background-color: red;
 }
